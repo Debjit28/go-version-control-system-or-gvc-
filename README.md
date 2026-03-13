@@ -147,7 +147,3 @@ Planned additions to expand git compatibility:
 - [ ] Switch to SHA256 for full Git compatibility
 
 ---
-
-## 📄 License
-
-MIT
